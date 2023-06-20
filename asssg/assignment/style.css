@@ -1,0 +1,26 @@
+body{
+   
+    text-align: center;
+}
+
+.container{
+    height: inherit;
+    /* width: 520px; */
+    
+    background-color: lightgreen;
+    
+    margin: auto 35% ;
+    text-align: center;    
+}
+button{
+    border-radius: 30px;
+    padding: 10px 30px;
+    margin: 10px 10px;
+    background-color: darkgrey;
+}
+/* form{
+    height: auto;
+    width: 100%;
+} */
+
+
